@@ -1,0 +1,55 @@
+.nav-item{
+    margin: 5px;
+    color: aliceblue;
+    font-size: small;
+}
+
+.container{
+    border: 2px solid black;
+}
+
+.it{
+    margin: 5px;
+    border: 1px solid black;
+    display: inline-block;
+    width: 470px;
+    text-align:justify;
+    
+}
+
+.nav-link{
+    background-color: rgba(51, 51, 187, 0.993);
+    color: aliceblue;
+    border: 1px solid black;
+}
+
+.btn.btn-outline-success{
+    background-color: blue; 
+    color: aliceblue;
+}
+
+#categorias{
+    border: 1px solid cadetblue;
+    margin-top: 9px; 
+}
+
+.cat-abc{
+    background-color: azure;
+}
+
+.log{
+    margin:5px;
+}
+
+#rodape{
+   text-align: center;
+   margin-top: 10px;
+   font-size:smaller;
+}
+
+.det h5{
+    text-align: center;
+    border: 1px solid azure;
+    margin-top: 10px;
+    background-color:aliceblue;
+}
